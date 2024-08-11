@@ -1,12 +1,31 @@
 ---
-title: "portfolio"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome"
+about:
+  template: broadside
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/achilleas-kouventaras/
+    - icon: github
+      text: Github
+      href: https://github.com/achilleaskouventaras
+    - icon: mailbox
+      text: Contact me
+      href: mailto:achilleas.kouventaras@gmail.com
 ---
+
+Hi there, I'm Achilleas! 👋
+
+Welcome to my personal corner of the web, where I delve into the fascinating world of data science. 
+
+I'm a data analyst at the UK's leading provider of public sector early payment programmes and market intelligence. I hold an MSc in Data Analytics and am a GradStat member of the Royal Statistical Society, actively pursuing Chartered status. My weekdays revolve around transforming data into actionable insights. When I'm not behind my desk, you'll most likely find me behind my piano or camera’s viewfinder.
+
+This blog is where I share my journey as I:
+
+- **Build my data science portfolio** with projects that showcase my skills and expertise.
+- **Create a series of educational articles** designed to make data science concepts accessible and practical.
+- **Explore real-world applications of advanced statistical modeling** in an attempt to shed light on complex problems.
+
+Whether you're a fellow data enthusiast, a seasoned professional, or just curious about the field, I hope you'll find value in the content I share. 
+
+Let's connect and continue the conversation!
