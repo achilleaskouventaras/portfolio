@@ -1,19 +1,17 @@
 ---
-title: "About"
+title: "Achilleas Kouventaras"
+subtitle: "Data Analyst"
+# `profile.jpg` photo by Jane Doe on https://unsplash.com
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/achilleaskouventaras
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
 ---
 
 About this blog

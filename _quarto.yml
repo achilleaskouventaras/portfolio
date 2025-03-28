@@ -4,13 +4,8 @@ project:
 website:
   title: "Achilleas Kouventaras"
   navbar:
-    left:
-    - text: Home
-      href: index.qmd
-    - text: Projects
-      href: projects.qmd
+    title: "Achilleas Kouventaras"
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/achilleaskouventaras
       - icon: linkedin
@@ -19,6 +14,7 @@ format:
   html:
     theme: cosmos
     css: styles.css
-
+    backgroundcolor: "#faf9f6"
+    
 editor: visual
 
