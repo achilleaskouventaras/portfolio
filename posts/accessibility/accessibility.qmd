@@ -1,0 +1,37 @@
+---
+title: "Designing and Maintaining an Accessible Website"
+date: "2025-03-28"
+about:
+  template: jolla
+---
+
+### Why Accessibility Matters
+
+Accessibility in web design ensures that everyone, including individuals with disabilities,  can access and navigate your website. As data scientists, we often present insights, visualizations, and interactive elements, making accessibility even more critical.
+
+### Key Principles of Accessible Design
+
+1.  **Provide Text Alternatives**\
+    Use descriptive alt text for images and ensure screen readers can interpret visual content.
+
+2.  **Ensure Keyboard Navigation**\
+    Users should be able to navigate your site using only a keyboard 
+    (e.g., via tabbing through elements).
+
+3.  **Use Sufficient Color Contrast**\
+    Maintain a contrast ratio of at least 4.5:1 for text to enhance readability for users with visual impairments.
+
+4.  **Make Interactive Elements Perceivable**\
+    Buttons, links, and form elements should be distinguishable and have clear focus indicators.
+
+5.  **Structure Content with Semantic HTML**\
+    Use proper HTML elements like `<h1>`, `<h2>`, `<p>`, and `<nav>` to define content hierarchy.
+
+### Maintaining Accessibility Over Time
+
+-   **Test Regularly** using tools like [WAVE](https://wave.webaim.org/) or the browser's built-in accessibility inspector.
+-   **Monitor Contrast and Readability** when updating colors, fonts, or layouts.
+-   **Check ARIA Attributes** to ensure dynamic content remains accessible.
+-   **Gather User Feedback** from people who rely on assistive technologies.
+
+By incorporating accessibility into your workflow, you create a more inclusive web experience, making your content and insights accessible to all users.

@@ -26,5 +26,33 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/accessibility/accessibility.html",
+    "href": "posts/accessibility/accessibility.html",
+    "title": "Designing and Maintaining an Accessible Website",
+    "section": "",
+    "text": "Why Accessibility Matters\nAccessibility in web design ensures that everyone, including individuals with disabilities, can access and navigate your website. As data scientists, we often present insights, visualizations, and interactive elements, making accessibility even more critical.\n\n\nKey Principles of Accessible Design\n\nProvide Text Alternatives\nUse descriptive alt text for images and ensure screen readers can interpret visual content.\nEnsure Keyboard Navigation\nUsers should be able to navigate your site using only a keyboard (e.g., via tabbing through elements).\nUse Sufficient Color Contrast\nMaintain a contrast ratio of at least 4.5:1 for text to enhance readability for users with visual impairments.\nMake Interactive Elements Perceivable\nButtons, links, and form elements should be distinguishable and have clear focus indicators.\nStructure Content with Semantic HTML\nUse proper HTML elements like &lt;h1&gt;, &lt;h2&gt;, &lt;p&gt;, and &lt;nav&gt; to define content hierarchy.\n\n\n\nMaintaining Accessibility Over Time\n\nTest Regularly using tools like WAVE or the browser’s built-in accessibility inspector.\nMonitor Contrast and Readability when updating colors, fonts, or layouts.\nCheck ARIA Attributes to ensure dynamic content remains accessible.\nGather User Feedback from people who rely on assistive technologies.\n\nBy incorporating accessibility into your workflow, you create a more inclusive web experience, making your content and insights accessible to all users."
+  },
+  {
+    "objectID": "posts/accessibility/accessibility.html#why-accessibility-matters",
+    "href": "posts/accessibility/accessibility.html#why-accessibility-matters",
+    "title": "Designing and Maintaining an Accessible Website",
+    "section": "",
+    "text": "Accessibility in web design ensures that everyone, including individuals with disabilities, can access and navigate your website. As data scientists, we often present insights, visualizations, and interactive elements, making accessibility even more critical."
+  },
+  {
+    "objectID": "posts/accessibility/accessibility.html#key-principles-of-accessible-design",
+    "href": "posts/accessibility/accessibility.html#key-principles-of-accessible-design",
+    "title": "Designing and Maintaining an Accessible Website",
+    "section": "Key Principles of Accessible Design",
+    "text": "Key Principles of Accessible Design\n\nProvide Text Alternatives\nUse descriptive alt text for images and ensure screen readers can interpret visual content.\nEnsure Keyboard Navigation\nUsers should be able to navigate your site using only a keyboard (e.g., via tabbing through elements).\nUse Sufficient Color Contrast\nMaintain a contrast ratio of at least 4.5:1 for text to enhance readability for users with visual impairments.\nMake Interactive Elements Perceivable\nButtons, links, and form elements should be distinguishable and have clear focus indicators.\nStructure Content with Semantic HTML\nUse proper HTML elements like &lt;h1&gt;, &lt;h2&gt;, &lt;p&gt;, and &lt;nav&gt; to define content hierarchy."
+  },
+  {
+    "objectID": "posts/accessibility/accessibility.html#maintaining-accessibility-over-time",
+    "href": "posts/accessibility/accessibility.html#maintaining-accessibility-over-time",
+    "title": "Designing and Maintaining an Accessible Website",
+    "section": "Maintaining Accessibility Over Time",
+    "text": "Maintaining Accessibility Over Time\n\nTest Regularly using tools like WAVE or the browser’s built-in accessibility inspector.\nMonitor Contrast and Readability when updating colors, fonts, or layouts.\nCheck ARIA Attributes to ensure dynamic content remains accessible.\nGather User Feedback from people who rely on assistive technologies.\n\nBy incorporating accessibility into your workflow, you create a more inclusive web experience, making your content and insights accessible to all users."
   }
 ]
